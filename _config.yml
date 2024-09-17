@@ -1,3 +1,5 @@
-title:Phanice Osoro
-Description: Data Analyst, Visualization Expert
-theme: jekyll-theme-minimal
+title: Phanice Osoro
+description: Data Analyst Visualization Expert
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-modernist
