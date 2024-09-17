@@ -71,6 +71,7 @@ Statistician @ KCA University (Feb 2020-May 2023)
  ## Education
  Master of Science in Data Analytics								July 2024
  KCA University
+ 
  Bachelor of Science in Statistics								  Dec 2018
  Laikipia University
 
