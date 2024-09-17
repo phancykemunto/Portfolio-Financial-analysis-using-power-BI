@@ -1,5 +1,4 @@
 
-# Data Analyst
 
 ## Career Profile
 Passionate Data Analyst with a Bachelor's Degree in Statistics and over 3 years of experience in data management, research, and analysis. Skilled in using Power BI, Power Query, and DAX functions to create impactful data models, reports, and dashboards that turn complex data into actionable insights. Proficient in Advanced Microsoft Office for data visualization, SQL for database management, and Python and STATA for advanced statistical analysis.
@@ -69,6 +68,7 @@ Statistician @ KCA University (Feb 2020-May 2023)
   by 15%.
 
  ## Education
+ 
  Master of Science in Data Analytics								July 2024
  KCA University
  
